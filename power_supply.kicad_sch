@@ -5,9 +5,9 @@
 	(uuid "a58783fc-3cf8-4964-a669-dd5615ff15c4")
 	(paper "A5")
 	(title_block
-		(title "MISRC")
-		(date "2024-05-10")
-		(rev "2.0")
+		(title "MISRC-PCM")
+		(date "2024-05-23")
+		(rev "2.1")
 		(comment 1 "Power supply")
 	)
 	(lib_symbols
@@ -3303,7 +3303,7 @@
 			(uuid "da774952-6cbc-4c7f-9d2f-fa4635200a05")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR030")
 					(unit 1)
@@ -3381,7 +3381,7 @@
 			(uuid "0346316b-36d8-4187-8fd4-6a381ff2b7be")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C32")
 					(unit 1)
@@ -3459,7 +3459,7 @@
 			(uuid "fa4aafb6-8e35-4a4e-8945-3e2464b913db")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C21")
 					(unit 1)
@@ -3538,7 +3538,7 @@
 			(uuid "e13354e7-6e09-42d5-ab63-89c27db3feb3")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "Q2")
 					(unit 1)
@@ -3616,7 +3616,7 @@
 			(uuid "9ce4edbc-4cca-43bc-a013-bf315f22b167")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C17")
 					(unit 1)
@@ -3693,7 +3693,7 @@
 			(uuid "9017bece-3f8f-4b23-91b3-a09cea86e98a")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "L2")
 					(unit 1)
@@ -3771,7 +3771,7 @@
 			(uuid "282b97df-d842-4dd7-b593-a8c03729f0f5")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C26")
 					(unit 1)
@@ -3849,7 +3849,7 @@
 			(uuid "f507e58a-a58d-40ae-a305-f856d5102ccd")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C8")
 					(unit 1)
@@ -3927,7 +3927,7 @@
 			(uuid "06cc8a6e-5309-4d0d-9985-7160306c932c")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C23")
 					(unit 1)
@@ -3993,7 +3993,7 @@
 			(uuid "ddf2f5ab-b7f7-4b6c-9409-3a5a72670b86")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR037")
 					(unit 1)
@@ -4092,7 +4092,7 @@
 			(uuid "771d2555-d0fc-4db8-b527-d77fd29c0195")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "U7")
 					(unit 1)
@@ -4170,7 +4170,7 @@
 			(uuid "426ee201-8ebe-4a86-be02-2d8a38aea99b")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C13")
 					(unit 1)
@@ -4248,7 +4248,7 @@
 			(uuid "1074cf26-6554-4bad-8a6b-411c517eb25b")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C12")
 					(unit 1)
@@ -4326,7 +4326,7 @@
 			(uuid "fd952a82-2f93-482a-b306-955f8028820f")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C22")
 					(unit 1)
@@ -4392,7 +4392,7 @@
 			(uuid "e4286486-6301-44a5-89fe-45284b00c861")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR031")
 					(unit 1)
@@ -4471,7 +4471,7 @@
 			(uuid "cd5003d7-89dc-4e8e-aa9f-81bd2dbac1a1")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "Q1")
 					(unit 1)
@@ -4537,7 +4537,7 @@
 			(uuid "af2d9ab9-e11f-457b-87d1-a15509da12c6")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR038")
 					(unit 1)
@@ -4615,7 +4615,7 @@
 			(uuid "4f44852b-ed45-4793-b002-cc77ecd70bda")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C30")
 					(unit 1)
@@ -4681,7 +4681,7 @@
 			(uuid "7f61921e-a706-49b9-ba40-95c537565e93")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR0239")
 					(unit 1)
@@ -4759,7 +4759,7 @@
 			(uuid "3e97072d-7d0d-4255-9287-93657100a4ed")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C24")
 					(unit 1)
@@ -4837,7 +4837,7 @@
 			(uuid "10064b5d-2634-444e-8707-5dd17d36fc9d")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C11")
 					(unit 1)
@@ -4903,7 +4903,7 @@
 			(uuid "3dcaeadb-af55-462b-838e-44a04f74f43b")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR042")
 					(unit 1)
@@ -4981,7 +4981,7 @@
 			(uuid "94259b4e-e14f-4517-9233-4c34aab77b00")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C25")
 					(unit 1)
@@ -5059,7 +5059,7 @@
 			(uuid "77e17b39-07a3-4ca2-9835-97610c455c05")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C14")
 					(unit 1)
@@ -5125,7 +5125,7 @@
 			(uuid "a93e63e2-dfc1-4433-b978-f02eb659c2c2")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR039")
 					(unit 1)
@@ -5203,7 +5203,7 @@
 			(uuid "77be47f5-ce6b-45f3-ac79-3185dbb9e6f9")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C27")
 					(unit 1)
@@ -5269,7 +5269,7 @@
 			(uuid "6ffa2d58-cd66-4d7d-aa6a-cdb27e064aac")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR027")
 					(unit 1)
@@ -5355,7 +5355,7 @@
 			(uuid "89ecf797-57ea-4829-998f-262ab8936651")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "L1")
 					(unit 1)
@@ -5421,7 +5421,7 @@
 			(uuid "286dd113-aef0-463f-9c4d-a1d99209f5b9")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR033")
 					(unit 1)
@@ -5497,7 +5497,7 @@
 			(uuid "17b49ef1-8054-4b8f-9f8d-64162ea28298")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "R4")
 					(unit 1)
@@ -5563,7 +5563,7 @@
 			(uuid "ad7dbbac-7a40-4e3f-b046-4905b0bfcb50")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR040")
 					(unit 1)
@@ -5641,7 +5641,7 @@
 			(uuid "5866abfb-13b5-4349-82a1-82450704f8ea")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C28")
 					(unit 1)
@@ -5717,7 +5717,7 @@
 			(uuid "796f307d-f901-4016-a230-60477cb2c531")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "R5")
 					(unit 1)
@@ -5783,7 +5783,7 @@
 			(uuid "1fc9eb39-9cb4-4689-9281-036f3bd96909")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR041")
 					(unit 1)
@@ -5849,7 +5849,7 @@
 			(uuid "869d4a66-8f73-4b62-afb0-b9f1d1c60628")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR028")
 					(unit 1)
@@ -5915,7 +5915,7 @@
 			(uuid "a0d74660-919b-4fc5-b720-162ac56d319d")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR032")
 					(unit 1)
@@ -5993,7 +5993,7 @@
 			(uuid "124f1302-6fd0-47f9-be0d-a6999551593c")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C19")
 					(unit 1)
@@ -6059,7 +6059,7 @@
 			(uuid "3e6f641b-8fe7-4114-b5dc-bb4ee1a02ab3")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR035")
 					(unit 1)
@@ -6137,7 +6137,7 @@
 			(uuid "896ec01f-c118-4c07-b88e-507445331302")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C15")
 					(unit 1)
@@ -6203,7 +6203,7 @@
 			(uuid "c7d27b88-1f25-4ba7-a11e-396371b15716")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR036")
 					(unit 1)
@@ -6281,7 +6281,7 @@
 			(uuid "5a1cd89d-6d33-4872-9ae0-8080a3b396a5")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C20")
 					(unit 1)
@@ -6359,7 +6359,7 @@
 			(uuid "9351d02f-d6d9-444a-b986-83b8f53b5e23")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C18")
 					(unit 1)
@@ -6446,7 +6446,7 @@
 			(uuid "88726f28-af92-4582-ad0d-2932e1b965ff")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C7")
 					(unit 1)
@@ -6524,7 +6524,7 @@
 			(uuid "fa05c006-b1a4-435d-b948-2d7f211d1e27")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C9")
 					(unit 1)
@@ -6590,7 +6590,7 @@
 			(uuid "c9f034ce-b210-40df-b864-4df347edab17")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR0267")
 					(unit 1)
@@ -6668,7 +6668,7 @@
 			(uuid "dc4e9ad3-9d55-4823-b9d1-f1f434f629d0")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C29")
 					(unit 1)
@@ -6755,7 +6755,7 @@
 			(uuid "6efc4b3f-d628-43f3-b304-289f70afb886")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C10")
 					(unit 1)
@@ -6833,7 +6833,7 @@
 			(uuid "701b2752-843d-459a-bca2-0e738b6332a3")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C16")
 					(unit 1)
@@ -6899,7 +6899,7 @@
 			(uuid "b5f40390-4cfb-4d4d-a895-fc21b3f08e65")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR043")
 					(unit 1)
@@ -6965,7 +6965,7 @@
 			(uuid "129fd342-9402-414d-b35f-9283a0bf0ae0")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR029")
 					(unit 1)
@@ -7030,7 +7030,7 @@
 			(uuid "9d79453d-07cd-46eb-91d8-9c896b3b0189")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR034")
 					(unit 1)
@@ -7115,7 +7115,7 @@
 			(uuid "55b42d54-2690-44cb-8de6-1bb662c74c55")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "U6")
 					(unit 1)
@@ -7181,7 +7181,7 @@
 			(uuid "73875c22-20e2-4080-bf4b-79ac4dbfbe27")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "#PWR0240")
 					(unit 1)
@@ -7268,7 +7268,7 @@
 			(uuid "80221afa-1bf9-459c-99c8-1a9150b839c6")
 		)
 		(instances
-			(project "MISRC_v2"
+			(project "MISRC_v2.1"
 				(path "/bc796fa4-76ff-4554-a44c-2597c6c5788e/538d6370-13f5-4ba3-8caf-b10d3835824f"
 					(reference "C6")
 					(unit 1)
